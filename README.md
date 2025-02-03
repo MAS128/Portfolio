@@ -30,6 +30,7 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 
 ### **CAD 3D Modeling**
 - FreeCAD
+- Eagle (PCB Design)
 - 3D Printing (Mainly Cura)
 
 ### **Embedded Software Development**
@@ -59,6 +60,7 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 ### **3. Embedded Software Development, CAD 3D Modeling + PCB Design: Gripper With Color Sensing**
 - Desing and practical implementation of a mechanical gripper, operated by a microcontroller for a gantry crane model, as part of my Engineering degree.
 - Tools: Arduino IDE, FreeCAD, Eagle (PCB Design)
+
 ---
 
 ## 📂 **Explore My Work**
