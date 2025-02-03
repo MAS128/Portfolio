@@ -17,25 +17,24 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 ## 🛠️ **Skills & Tools**
 
 ### **Data Analysis**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (mainly PostgreSQL)
-- Data Visualization (Plotly with Python, MS Excel)
+- Python (Pandas, NumPy)
+- SQL (mainly PostgreSQL & SQLite)
+- Data Visualization (Plotly, Matplotlib, Dash, Seaborn, MS Excel)
 - Machine Learning (Scikit-learn, TensorFlow)
 
 ### **Python Software Development**
 - Python Frameworks (Flask, Django)
-- APIs (REST,)
+- Tools (docker, VMs, VPNs, LLMs)
+- APIs (REST, psycopg)
 - Version Control (Git, GitHub)
 
 ### **CAD 3D Modeling**
-- Fusion 360
-- SolidWorks
-- Blender
-- 3D Printing (Slic3r, Cura)
+- FreeCAD
+- 3D Printing (Mainly Cura)
 
 ### **Embedded Software Development**
 - C/C++ for Embedded Systems
-- RTOS (FreeRTOS, Zephyr)
+- RTOS (FreeRTOS)
 - Microcontrollers (ESP32, Arduino)
 
 ### **PLC Software**
@@ -43,14 +42,19 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 - Siemens TIA Portal
 - Allen-Bradley Studio 5000
 - SCADA Systems (WinCC)
+- Simulation/Emulation Software (Demo 3D)
 
 ---
 
 ## 🌟 **Featured Projects**
 
 ### **1. Data Analysis: Employee Attrition Report**
-- TBA
-- Tools: TBA.
+- Data analysis project exploring the causes of worker attrition with the use of **IBM HR Analytics Employee Attrition & Performance** dataset
+- Tools: Python, Seaborn, Pandas, Plotly.
+
+### **2. Python Software Development: AI powered tagging application/agent**
+- Fragment of a much larger system designed to periodically download social media posts from the external database, analyse them with locally hosted LLM, assign appropriate tags, then finally save the data back to the database for later use.
+- Tools: Python, Django, Microservice Architecture, Microsoft Azure Cloud, Redis, PostgreSQL, RabbitMQ.
 
 ---
 
