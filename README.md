@@ -24,7 +24,7 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 
 ### **Python Software Development**
 - Python Frameworks (Flask, Django)
-- Tools (docker, VMs, VPNs, LLMs)
+- Tools (Docker, VMs, VPNs, LLMs)
 - APIs (REST, psycopg)
 - Version Control (Git, GitHub)
 
@@ -54,7 +54,7 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 
 ### **2. Python Software Development: AI powered tagging application/agent**
 - Fragment of a much larger system designed to periodically download social media posts from the external database, analyse them with locally hosted LLM, assign appropriate tags, then finally save the data back to the database for later use.
-- Tools: Python, Django, Microservice Architecture, Microsoft Azure Cloud, Redis, PostgreSQL, RabbitMQ.
+- Tools: Python, Docker, Django, Microservice Architecture, Microsoft Azure Cloud, Redis, PostgreSQL, RabbitMQ.
 
 ---
 
