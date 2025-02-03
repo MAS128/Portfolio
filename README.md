@@ -56,6 +56,9 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 - Fragment of a much larger system designed to periodically download social media posts from the external database, analyse them with locally hosted LLM, assign appropriate tags, then finally save the data back to the database for later use.
 - Tools: Python, Docker, Django, Microservice Architecture, Microsoft Azure Cloud, Redis, PostgreSQL, RabbitMQ.
 
+### **3. Embedded Software Development, CAD 3D Modeling + PCB Design: Gripper With Color Sensing**
+- Desing and practical implementation of a mechanical gripper, operated by a microcontroller for a gantry crane model, as part of my Engineering degree.
+- Tools: Arduino IDE, FreeCAD, Eagle (PCB Design)
 ---
 
 ## 📂 **Explore My Work**
@@ -64,7 +67,7 @@ Check out my projects in their respective subdirectories.
 ---
 
 ## 📫 **Let’s Connect!**
-I’m always open to collaboration, new opportunities, or just a chat about tech. Feel free to reach out:
+I’m always open to collaboration, new opportunities, or freelance work. Feel free to reach out:
 
 - **Email**: [m.sarnecki99@gmail.com]
 - **LinkedIn**: [Marek Sarnecki](https://www.linkedin.com/in/marek-sarnecki-057846344/)
