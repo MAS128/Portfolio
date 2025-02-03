@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: app
+    build: .
+    ports:
+      - "8000:80"
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    volumes:
+      - .:/app
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"  # For accessing host services from Linux containers
+
+  redis:
+    image: redis
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    command: redis-server --save 20 1 --loglevel warning
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      retries: 5
+
+#networks:
+#  my-bridge-network:
+#    external: true

@@ -1,0 +1,9 @@
+psycopg
+tiktoken
+numpy
+redis
+pandas
+requests
+python-dotenv
+openai
+pika
