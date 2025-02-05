@@ -1,6 +1,6 @@
 # Welcome to My Professional Portfolio! 👋
 
-Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Python Software Development, CAD 3D Modeling, Embedded Systems, and PLC Programming**. This portfolio showcases my projects, skills, and contributions across these diverse fields.
+Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Python Software Development, Data Science, CAD 3D Modeling, Embedded Systems, and PLC Programming**. This portfolio showcases my projects, skills, and contributions across these diverse fields.
 
 ---
 
@@ -8,6 +8,7 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 
 - **📊 Data Analysis**: Transforming raw data into actionable insights using Python, SQL, and data visualization tools like Tableau and Power BI.
 - **🐍 Python Software Projects**: Building scalable and efficient applications, scripts, and automation tools.
+- **🤖 Data Science**: Experimental work involving machine learning, data generation, augmentation and nerual network training.
 - **🖥️ CAD 3D Modeling for 3D Printing**: Designing functional and creative 3D models using FreeCAD.
 - **⚙️ Embedded Software Development**: Developing firmware and software for microcontrollers (e.g. ESP32, Arduino).
 - **🔧 PLC Software**: Designing and programming PLC systems for industrial automation and control.
@@ -66,6 +67,10 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 ### **3. Embedded Software Development, CAD 3D Modeling + PCB Design: Gripper With Color Sensing**
 - Desing and practical implementation of a mechanical gripper, operated by a microcontroller for a gantry crane model, as part of my Engineering degree.
 - Tools: Arduino IDE, FreeCAD, Eagle (PCB Design)
+
+### **4. Data Science: Neural Networks and Inverse Kinematics**
+- Fragment of my Master thesis, where i explore direct usage of neural networks to solve inverse kinematics problem with self-supervised learning technique.
+- Tools: Python, Jupyter-lab, TensorFlow, Mathematical Modeling, Plotly, Clustering techniques, Deep Neural Networks
 
 ---
 
