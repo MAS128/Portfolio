@@ -28,6 +28,12 @@ Hi, I'm Marek, a versatile professional with expertise in **Data Analysis, Pytho
 - APIs (REST, psycopg)
 - Version Control (Git, GitHub)
 
+### **Data Science**
+- Jupyter Notebooks with TensorFlow
+- Venvs with various ML and data visualisation libraries
+- Custom Neural network models (simple, deep, residual, GRU)
+- Experimental work ML and NN (Inverse Kinematics, Data Generation)
+
 ### **CAD 3D Modeling**
 - FreeCAD
 - Eagle (PCB Design)
